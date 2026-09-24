@@ -5,7 +5,6 @@ Archive snapshot of the project's YouTube playlist.
 - Playlist: https://www.youtube.com/playlist?list=PLVoFIRfTAAI6DJoKfFjX6pm2D1lcDjB3n
 - Snapshot date: 2026-09-24
 - Videos in this snapshot: 90
-- Source: exported with `yt-dlp --flat-playlist`
 
 > This file preserves the playlist order and video titles as they appeared in the export. Titles are not normalized or silently corrected.
 
