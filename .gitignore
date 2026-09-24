@@ -1,0 +1,47 @@
+# --- Python / Sphinx ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+docs/_build/
+docs/build/
+.doctrees/
+
+# --- Sphinx generated files ---
+_build/
+_build/html/
+_build/doctrees/
+
+# --- Linux kernel module build artifacts ---
+*.o
+*.ko
+*.mod
+*.mod.c
+*.mod.o
+*.cmd
+*.order
+*.symvers
+Module.symvers
+modules.order
+.tmp_versions/
+.cache.mk
+
+# --- Editors / IDE ---
+.vs/
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Windows / macOS ---
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# --- Temporary files ---
+*.tmp
+*.temp
+*.log
+
+# --- Local import / legacy build ---
+_import/
