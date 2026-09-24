@@ -34,7 +34,11 @@
 - Sphinx 9.1.0
 - sphinx-rtd-theme 3.1.0
 - clean documentation build: 0 warnings
-- GitHub Pages deployment: planned
+- GitHub Pages deployment: active
+
+## Online documentation
+
+https://aidevelopersmonster.github.io/Linux_Driver_Dev_Guide/
 
 ## Repository structure
 
@@ -46,3 +50,4 @@
 
 Alex Malachevsky  
 GitHub: AIDevelopersMonster
+
